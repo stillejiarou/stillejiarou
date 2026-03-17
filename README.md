@@ -6,7 +6,7 @@
 ### ★ What I'm up to
 - Building my personal website at [stillejiarou/site](https://github.com/stillejiarou/site)
 - Learning anything I can, right now **Astro** is my focus
-- Writing thoughts, notes, and experiments on **[my Neocities blog](https://stillejiarou.neocities.org)**
+- Writing thoughts and notes on <a rel="me" href="stillejiarou.neocities.org">my Neocities Blog </a>!
 
 ---
 
